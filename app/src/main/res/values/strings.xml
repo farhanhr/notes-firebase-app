@@ -11,4 +11,12 @@
     <string name="sign_up">Sign up</string>
     <string name="logout">Logout</string>
     <string name="passwords_do_not_match">Passwords do not match!</string>
+    <string name="add_note">Add Note</string>
+    <string name="save_note">save_note</string>
+    <string name="back">back</string>
+    <string name="title">Title</string>
+    <string name="content">content</string>
+    <string name="content_text">Write better Android apps faster with Kotlin. Kotlin is a modern statically typed programming language used by over 60% of professional Android developers that helps boost productivity, developer satisfaction, and code safety.</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="you_haven_t_written_any_notes">You haven\'t written any notes</string>
 </resources>

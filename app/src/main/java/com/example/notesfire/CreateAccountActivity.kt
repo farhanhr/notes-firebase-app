@@ -94,11 +94,7 @@ class CreateAccountActivity : AppCompatActivity() {
                     showLoading(false)
                     // If sign in fails, display a message to the user.
                     Log.w(TAG, "createUserWithEmail:failure", task.exception)
-                    Toast.makeText(
-                        baseContext,
-                        "Authentication failed.",
-                        Toast.LENGTH_SHORT,
-                    ).show()
+                    Utility.showToast(baseContext, "Authentication Failed")
                 }
             }
     }
